@@ -1,0 +1,51 @@
+# Geotechnik — Salzgitter
+
+> Geotechnical engineering services in Salzgitter, Deutschland.
+
+## Services
+- [Anker](https://salzgitter.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://salzgitter.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://salzgitter.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://salzgitter.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://salzgitter.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://salzgitter.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://salzgitter.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://salzgitter.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://salzgitter.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://salzgitter.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://salzgitter.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://salzgitter.geotechnik.biz/fundamente/)
+- [Grundungen](https://salzgitter.geotechnik.biz/grundungen/)
+- [Hange](https://salzgitter.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://salzgitter.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://salzgitter.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://salzgitter.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://salzgitter.geotechnik.biz/labor/)
+- [Labor In Situ](https://salzgitter.geotechnik.biz/labor-in-situ/)
+- [Masw](https://salzgitter.geotechnik.biz/masw/)
+- [Pfahle](https://salzgitter.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://salzgitter.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://salzgitter.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://salzgitter.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://salzgitter.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://salzgitter.geotechnik.biz/schurfgruben/)
+- [Seismik](https://salzgitter.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://salzgitter.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://salzgitter.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://salzgitter.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://salzgitter.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://salzgitter.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://salzgitter.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://salzgitter.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://salzgitter.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://salzgitter.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://salzgitter.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://salzgitter.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://salzgitter.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://salzgitter.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Salzgitter, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
